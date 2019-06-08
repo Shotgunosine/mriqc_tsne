@@ -9,10 +9,8 @@ If you just want to play with TSNE plots of this data, download the files t1_mer
 
  ## Repeting the analysis
 If you'd like to repeat the analysis you'l need to download the following files from the OSF repository:
-* All.txt
-* all_bolds_2018_12_26.csv
-* all_bolds_2018_12_26.csv
-* all_bolds_2018_12_26.csv
+* ALL.txt
+* mriqc_2019_05_22.zip
 
 Additionally, you'll need to have [datalad installed](https://www.datalad.org/get_datalad.html), install the uberdataset, and then run the get_datalad_data notebook.
 
